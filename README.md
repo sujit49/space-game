@@ -18,9 +18,7 @@ An exciting 2D space shooter game built using **Pygame**. You control a spaceshi
 
 ---
 
-## 📸 Screenshots
-
-> Make sure to add screenshots like these (place in the repo):
+## 📸 Scenes 
 
 - `space_background.jpg` (background)
 - `player.png` (your spaceship)
